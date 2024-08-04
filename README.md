@@ -24,7 +24,9 @@ I'm studying
   </a>
 </div>
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=pxpxng02&style=flat-square&color=blue" alt=""/>
+</div>
 
 ### Skills
 
