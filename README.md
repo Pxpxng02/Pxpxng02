@@ -13,7 +13,7 @@ I'm studying
 
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="(https://www.linkedin.com/in/%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96-3371092b2/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
